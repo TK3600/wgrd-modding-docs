@@ -1,0 +1,12 @@
+site_name: Wargame Red Dragon Modding Wiki
+theme:
+  name: readthedocs
+  locale: us
+  highlightjs: true
+  hljs_languages:
+    - c
+    - h
+    - cpp
+    - hpp
+    - shell
+    - py
