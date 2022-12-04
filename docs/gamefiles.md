@@ -1,0 +1,45 @@
+# Structure of the GameFiles
+
+- Data/
+    - PC/
+        - PC contains older revisions of the WarGame3.exe for replays
+        - every folder id marks a svn revision number of Eugen
+        - 48574/
+        - 49125/
+        - 49964/
+        - 58710/
+        - 59095/
+        - 59638/
+        - 68335/
+    - WarGame/PC/
+        - 48574/
+            - every folder contains a folder with the next svn revision number
+            - 49125/
+            - Data.dat
+                - fonts and videos
+            - DataMap.dat
+                - maps and campaigns
+            - NDF\_NotFinal.dat
+                - ndf files for scenarios?
+            - NDF\_Win.dat
+                - ndf files for ui / scenery / everything
+            - ZZ\_1.dat
+                - assets, texture ndfbins, ppk files, spk files
+            - ZZ\_2.dat
+                - textures
+            - ZZ\_3a.dat
+                - textures
+            - ZZ\_3b.dat
+                - textures
+            - ZZ\_4.dat
+                - some ppk files
+        - 49125/
+        - 49964/
+        - 58710/
+        - 59095/
+        - 59638/
+        - 68335/
+        - 72352/
+
+- Maps/Wargame/PC/
+    - for each map / campaign one dat file

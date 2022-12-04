@@ -1,7 +1,7 @@
 site_name: Wargame Red Dragon Modding Wiki
 theme:
   name: readthedocs
-  locale: us
+  locale: en
   highlightjs: true
   hljs_languages:
     - c
